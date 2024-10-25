@@ -13,4 +13,9 @@ public class DemoApplication {
 	public void print() {
 
 	}
+
+	public void test2() {
+
+	}
+
 }
